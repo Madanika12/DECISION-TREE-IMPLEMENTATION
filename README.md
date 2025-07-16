@@ -73,4 +73,4 @@ Features such as petal length and petal width played a significant role in decis
 The model demonstrates how a decision tree uses simple thresholds to split data and reach a classification.
 
 While decision trees are easy to visualize and explain, they can become complex and overfit when data is noisy or high-dimensional. In this case, however, the model was well-behaved due to the clean nature of the Iris dataset.
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/13567c6a-87f8-4088-8521-69a4e06f2d21" />
