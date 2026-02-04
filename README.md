@@ -1,10 +1,5 @@
 # DECISION-TREE-IMPLEMENTATION
-COMPANY: CODTECH IT SOLUTIONS
-NAME: MADANIKA PITTAM
-INTERN ID: CT04DG1969
-DOMAIN: MACHINE LEARNING
-DURATION: 4 WEEKS
-MENTOR: NEELA SANTOSH
+
 Overview
 This project aims to implement a Decision Tree Classifier using Scikit-learn to classify the species of iris flowers based on their physical characteristics. The task is a classic example of supervised machine learning, where the goal is to build a model that can learn from labeled data and accurately predict the class (species) of new, unseen samples.
 
